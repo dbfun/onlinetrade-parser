@@ -1,3 +1,7 @@
+# Описание
+
+Парсер товаров с сайта [onlinetrade.ru](http://onlinetrade.ru/)
+
 ## Интересные ссылки
 
 Карта сайта на 25 тыс адресов:
@@ -86,3 +90,4 @@ http://www.awesomescreenshot.com/image/200662/d5d2c595edfb457dc7a11e1a5dd74fb1
 http://skupator.myinsales.ru/
 
 Доступ: miragames@gmail.com wwwwww
+busytrade@yandex.ru
